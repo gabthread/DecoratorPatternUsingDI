@@ -1,0 +1,74 @@
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\Client.dll.config
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\Client.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\Client.pdb
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\DecoratorDesignPattern.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\SimpleInjector.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\SimpleInjector.Integration.Web.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Helpers.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Mvc.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Razor.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.Deployment.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.Razor.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\DecoratorDesignPattern.pdb
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\SimpleInjector.xml
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\SimpleInjector.Integration.Web.xml
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Razor.xml
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.xml
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.Deployment.xml
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.Razor.xml
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Helpers.xml
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\bin\System.Web.Mvc.xml
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\obj\Debug\Client.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\Client\obj\Debug\Client.pdb
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\Client.dll.config
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\Client.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\Client.pdb
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\DecoratorDesignPattern.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\SimpleInjector.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\SimpleInjector.Integration.Web.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Helpers.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Mvc.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Razor.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.Deployment.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.Razor.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\DecoratorDesignPattern.pdb
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\SimpleInjector.xml
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\SimpleInjector.Integration.Web.xml
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Razor.xml
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.xml
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.Deployment.xml
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Webpages.Razor.xml
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Helpers.xml
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\bin\System.Web.Mvc.xml
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\obj\Debug\Client.dll
+C:\Gabriel\Blog Code\DecoratorUsingDIContainer\Client\obj\Debug\Client.pdb
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\Client.dll.config
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\Client.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\Client.pdb
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\DecoratorDesignPattern.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\SimpleInjector.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\SimpleInjector.Integration.Web.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Helpers.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Mvc.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Razor.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Webpages.Deployment.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Webpages.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Webpages.Razor.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\DecoratorDesignPattern.pdb
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\SimpleInjector.xml
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\SimpleInjector.Integration.Web.xml
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Razor.xml
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Webpages.xml
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Webpages.Deployment.xml
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Webpages.Razor.xml
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Helpers.xml
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\bin\System.Web.Mvc.xml
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\obj\Debug\Client.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\Client\obj\Debug\Client.pdb

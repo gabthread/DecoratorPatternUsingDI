@@ -1,0 +1,10 @@
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\BusinessLayer\bin\Debug\DecoratorDesignPattern.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\BusinessLayer\bin\Debug\DecoratorDesignPattern.pdb
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\BusinessLayer\obj\Debug\DecoratorDesignPattern.dll
+C:\Gabriel\ConceptExamples\DecoratorUsingDIContainer\BusinessLayer\obj\Debug\DecoratorDesignPattern.pdb
+C:\Gabriel\Blog\DecoratorPatternUsingDI\BusinessLayer\bin\Debug\DecoratorDesignPattern.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\BusinessLayer\bin\Debug\DecoratorDesignPattern.pdb
+C:\Gabriel\Blog\DecoratorPatternUsingDI\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Gabriel\Blog\DecoratorPatternUsingDI\BusinessLayer\obj\Debug\DecoratorDesignPattern.dll
+C:\Gabriel\Blog\DecoratorPatternUsingDI\BusinessLayer\obj\Debug\DecoratorDesignPattern.pdb
